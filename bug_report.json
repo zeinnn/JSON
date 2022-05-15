@@ -1,1 +1,8 @@
-
+{"Name":"Chat - the creator of a group conversation cannot rename it",
+ "Priority": "Medium",
+ "Severity": "Critical",
+ "Steps_to_reproduce":[{"1":"Open www.test.website.com"},{"2":"Open a chat dialog with users"},{"3":"Click on Setting"}]
+ "Actual_result": "the button Rename Conversation is disabled for the creator of the group conversation."
+ "Expected_result": "all participants should be able to rename a group conversation",
+ "Attachments":["log.txt","screenshot.jpg"]
+}
